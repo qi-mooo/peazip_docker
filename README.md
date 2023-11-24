@@ -10,3 +10,5 @@ novnc 的剪切板有问题，无法粘贴中文内容，如有需要请下载 v
 文件可以挂载到任意目录
 
 docker 镜像 [qimooo/peazip:latest](https://hub.docker.com/repository/docker/qimooo/peazip/general)
+
+![image](https://github.com/qi-mooo/peazip_docker/assets/59095213/fcf270ed-4d8d-48a3-90fe-82a94c373f66)
